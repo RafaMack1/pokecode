@@ -2,6 +2,7 @@
 '''Código para calcular a probabilidade de captura no pokemon platina'''
 '''Code to calculate the probability of capture on pokemon platinum'''
 
+
 hp_max = int(input("HP_max: "))
 hp_current = int(input("HP_current: "))
 rate = int(input("rate: "))
